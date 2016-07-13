@@ -10,7 +10,7 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Dev version</h2>
+            <h2>Dev version 07131656</h2>
             <h2>Getting started</h2>
             <p>
                 ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
